@@ -1,0 +1,57 @@
+Lapex_Allongement_derive,3.5
+Lapex_Allongement_empennage,4.47
+Lapex_Allongement_reference_voilure,7.8
+Lapex_Corde_reference_voilure (m),4.176657528134807
+Lapex_Diametre_fan_moteur (m),1.02
+Lapex_Diametre_fin_fuselage (m),0.5
+Lapex_Diametre_fuselage (m),2.8
+Lapex_Effilement_derive,0.283
+Lapex_Effilement_empennage,0.5
+Lapex_Fleche_50_cordes (deg),23.24877943143453
+Lapex_Fleche_a_50_des_cordes_derive (deg),32.0
+Lapex_Fleche_a_50_des_cordes_empennages (deg),30.0
+Lapex_Fleche_bord_attaque_empennage (deg),35.99813138481734
+Lapex_Fleche_de_bord_attaque_voilure (deg),30.0
+Lapex_Longueur_cabine_passager (m),8.1
+Lapex_Longueur_nacelle (m) ,3.825
+Lapex_Longueur_pointe_arriere (m),4.71
+Lapex_Longueur_pointe_avant (m),3.5
+Lapex_Longueur_poste_equipage (m),1.6
+Lapex_Longueur_soute_a_bagages (m),0.37120686435427497
+Lapex_Longueur_WC_arriere (m),0.8
+Lapex_Longueur_WC_avant (m),0.4
+Lapex_Position_derive (m),14.50009902187944
+Lapex_Position_empennage (m),16.349602296499064
+Lapex_Position_Y_empennage (m),0.25
+Lapex_Surface_de_reference_derive (m2),14.461127715729281
+Lapex_Surface_de_reference_empennage (m2),20.10215110900639
+Lapex_Surface_reference_voilure (m2),65.4183931477817
+Lapex_X_nacelle (m),14.27069733541697
+Lapex_X_position_voilure (m),8.455516465224742
+Lapex_Y_moteur (m),1.5
+Lapex_Longeur_25_cma_voilure (m),2.7225730884193227
+Lapex_Masse_carburant (kg),7978.04100908519
+Lapex_Longeur_CMA_voilure (m),10.38018226781082
+Fuselage_position_plancher,0.3
+Gouv_horizontale_cambrure_emplanture,0.02
+Gouv_horizontale_cambrure_extremite,0.02
+Gouv_Horizontale_Diedre (deg),5.0
+Gouv_horizontale_epaisseur_emplanture,0.14
+Gouv_horizontale_epaisseur_extremite,0.1
+Gouv_Horizontale_pos_max_epaisseur_emplanture,0.4
+Gouv_Horizontale_pos_max_epaisseur_extremite,0.4
+Gouv_Horizontale_pos_Z_derive,0.4
+Gouv_verticale_epaisseur_emplanture,0.14
+Gouv_Verticale_epaisseur_extremite,0.1
+Gouv_Verticale_pos_max_epaisseur_emplanture,0.4
+Gouv_Verticale_pos_max_epaisseur_extremite,0.4
+Nacelle_Z_centre_av (m),0.6
+Reservoir_ar_longueur (m),0.4
+Reservoir_av_longueur (m),0.5
+Voilure_cambrure_emplanture,0.02
+Voilure_cambrure_extremite,0.02
+Voilure_Diedre (deg),3.0
+Voilure_epaisseur_emplanture,0.15
+Voilure_epaisseur_extremite,0.09
+Voilure_pos_max_epaisseur_emplanture,0.4
+Voilure_pos_max_epaisseur_extremite,0.4
